@@ -1,0 +1,9 @@
+Sabesse que para calcular o salario de um vendedor é nmecessario somar o salario fixo com a comissão 
+e subitrair os impostos (inss e imposto de renda).
+critério para calcular comissão: 
+-se vender até 10.000 reais comissão 5%
+-se vender acima de 20.000 reais comissão 7%
+-no caso intermediário, comissão 6%
+Dependendo da somatória do salário final(fixo+comissão) os impostos são calculados com índicies diferentes,
+tanto o inss quanto o ir(pesquisar a tabela atual de ambos).
+Desenhar um diagrama de classe,e construir o projeto a partir dele

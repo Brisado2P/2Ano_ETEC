@@ -1,0 +1,40 @@
+C:\Users\Lenovo\Documents\VS Projects\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\VS Projects\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.Properties.Resources.resources
+C:\Users\Lenovo\Documents\VS Projects\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\VS Projects\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\VS Projects\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe.config
+C:\Users\Lenovo\Documents\VS Projects\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe
+C:\Users\Lenovo\Documents\VS Projects\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.pdb
+C:\Users\Lenovo\Documents\VS Projects\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.frmCalculoSalFinal.resources
+C:\Users\Lenovo\Documents\VS Projects\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.exe
+C:\Users\Lenovo\Documents\VS Projects\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.pdb
+C:\Users\LENOVO\Desktop\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe.config
+C:\Users\LENOVO\Desktop\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe
+C:\Users\LENOVO\Desktop\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.pdb
+C:\Users\LENOVO\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.frmCalculoSalFinal.resources
+C:\Users\LENOVO\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.exe
+C:\Users\LENOVO\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.pdb
+C:\Users\Aluno\Desktop\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe.config
+C:\Users\Aluno\Desktop\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe
+C:\Users\Aluno\Desktop\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.pdb
+C:\Users\Aluno\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.frmCalculoSalFinal.resources
+C:\Users\Aluno\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.Properties.Resources.resources
+C:\Users\Aluno\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.exe
+C:\Users\Aluno\Desktop\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.pdb
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe.config
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.pdb
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.frmCalculoSalFinal.resources
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.Properties.Resources.resources
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.exe
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.pdb

@@ -1,0 +1,20 @@
+C:\Users\Lenovo\Documents\VS Projects\pc1-pararaios\pc1-pararaios\bin\Debug\pc1-pararaios.exe.config
+C:\Users\Lenovo\Documents\VS Projects\pc1-pararaios\pc1-pararaios\bin\Debug\pc1-pararaios.exe
+C:\Users\Lenovo\Documents\VS Projects\pc1-pararaios\pc1-pararaios\bin\Debug\pc1-pararaios.pdb
+C:\Users\Lenovo\Documents\VS Projects\pc1-pararaios\pc1-pararaios\obj\Debug\pc1-pararaios.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\VS Projects\pc1-pararaios\pc1-pararaios\obj\Debug\pc1_pararaios.frmParaRaios.resources
+C:\Users\Lenovo\Documents\VS Projects\pc1-pararaios\pc1-pararaios\obj\Debug\pc1_pararaios.Properties.Resources.resources
+C:\Users\Lenovo\Documents\VS Projects\pc1-pararaios\pc1-pararaios\obj\Debug\pc1-pararaios.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\VS Projects\pc1-pararaios\pc1-pararaios\obj\Debug\pc1-pararaios.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\VS Projects\pc1-pararaios\pc1-pararaios\obj\Debug\pc1-pararaios.exe
+C:\Users\Lenovo\Documents\VS Projects\pc1-pararaios\pc1-pararaios\obj\Debug\pc1-pararaios.pdb
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\Exercicios_apostila\pc1-pararaios\pc1-pararaios\bin\Debug\pc1-pararaios.exe.config
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\Exercicios_apostila\pc1-pararaios\pc1-pararaios\bin\Debug\pc1-pararaios.exe
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\Exercicios_apostila\pc1-pararaios\pc1-pararaios\bin\Debug\pc1-pararaios.pdb
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\Exercicios_apostila\pc1-pararaios\pc1-pararaios\obj\Debug\pc1-pararaios.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\Exercicios_apostila\pc1-pararaios\pc1-pararaios\obj\Debug\pc1_pararaios.frmParaRaios.resources
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\Exercicios_apostila\pc1-pararaios\pc1-pararaios\obj\Debug\pc1_pararaios.Properties.Resources.resources
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\Exercicios_apostila\pc1-pararaios\pc1-pararaios\obj\Debug\pc1-pararaios.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\Exercicios_apostila\pc1-pararaios\pc1-pararaios\obj\Debug\pc1-pararaios.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\Exercicios_apostila\pc1-pararaios\pc1-pararaios\obj\Debug\pc1-pararaios.exe
+C:\Users\Victor\Desktop\2Ano\LPOO\C#\Exercicios_apostila\pc1-pararaios\pc1-pararaios\obj\Debug\pc1-pararaios.pdb
