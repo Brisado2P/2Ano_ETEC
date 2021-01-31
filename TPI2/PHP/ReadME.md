@@ -28,6 +28,10 @@ Basicamento é para ordenar números pré-definidos do menor para o maior.
 
 É uma adaptação da canção de ninar, fazendo um for para que a cada loop o numero de patinhos díminua.
 
+### Projeto Multa
+
+Com um valor pré-definido, calcula sobre a velocidade se está multado ou não.
+
 ### Super Global
 
 Usado para aprender a criar e manipular session.
