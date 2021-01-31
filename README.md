@@ -36,9 +36,9 @@ _Pode estar faltando algumas ferramentas, porém as mais usadas foram listadas_
 
 * [Lógica de Proramação com Orientação a Objetos](https://github.com/SFV-CORE/ETEC2/tree/master/LPOO);
 
-* [Tecnologias e Linguagens para Banco de Dados II](https://github.com/SFV-CORE/ETEC2/tree/master/SQL);
+* [Tecnologias e Linguagens para Banco de Dados II](https://github.com/SFV-CORE/ETEC2/tree/master/Tecnologias_Linguagens_BD_II);
 
-* [Técnicas de Programação para Internet II](https://github.com/SFV-CORE/ETEC2/tree/master/TPI2).
+* [Técnicas de Programação para Internet II](https://github.com/SFV-CORE/ETEC2/tree/master/Tecnologias_Programacao_Internet_II).
 
 
 ## Comunicado
