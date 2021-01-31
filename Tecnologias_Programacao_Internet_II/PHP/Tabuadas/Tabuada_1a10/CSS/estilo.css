@@ -1,0 +1,13 @@
+.cor1{
+	color:green;} 
+.cor2{
+	color:black;}
+.cor3{
+	color:red;} 
+.cor4{
+	color:blue;} 
+.coluna{
+	border: solid 2px;
+	width:100px;
+	float:left;
+	margin-left:20px;} 
